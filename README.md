@@ -113,12 +113,15 @@ It provides a seamless experience for users, efficient tools for delivery person
 
 ### 👤 User App
 
-![Home](images/user/home.png)
-![Cart](images/user/cart.png)
-![Offers](images/user/offers.png)
-![Tracking](images/user/tracking.png)
-![Notifications](images/user/notifications.png)
-![Review](images/user/review.png)
+![Home](images/user/home.jpg)
+![Login](images/user/login.jpg)
+![Offers](images/user/offer.jpg)
+![Favorites](images/user/fav.jpg)
+![Cart](images/user/cart.jpg)
+![Checkout](images/user/checkout.jpg)
+![Tracking](images/user/trackorder.jpg)
+![Location](images/user/location.jpg)
+![Notifications](images/user/notificationpage.jpg)
 
 ---
 
