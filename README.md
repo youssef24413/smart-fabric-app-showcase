@@ -128,8 +128,8 @@ It provides a seamless experience for **users**, efficient tools for **delivery 
 
 | Add Fabric | Add Offers | Reviews |
 |:---:|:---:|:---:|
-| <img src="images/admin/add_fabric.jpg" width="280"/> | <img src="images/admin/add_offers.jpg" width="280"/> | <img src="images/admin/reviews.jpg" width="280"/> |
-| **Add New Fabric** | **Manage Offers** | **User Reviews** |
+| <img src="images/admin/add_fabric.jpg" width="280"/> | <img src="images/admin/add_offers.jpg" width="280"/> 
+| **Add New Fabric** | **Manage Offers** |  
 
 | Analytics Chart 1 | Analytics Chart 2 | Analytics Chart 3 |
 |:---:|:---:|:---:|
