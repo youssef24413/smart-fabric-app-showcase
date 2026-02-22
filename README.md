@@ -127,19 +127,34 @@ It provides a seamless experience for users, efficient tools for delivery person
 
 ### 🚚 Delivery App
 
-![Orders](images/delivery/orders.png)
-![Map](images/delivery/map.png)
-![Order Details](images/delivery/details.png)
+![Order Details](images/delivery/order details.jpg)
+![User Location](images/delivery/user location.jpg)
+![Waiting Order](images/delivery/waiting Oder.jpg)
 
 ---
 
 ### 🖥️ Admin Dashboard
 
-![Dashboard](images/admin/dashboard.png)
-![Orders](images/admin/orders.png)
-![Products](images/admin/products.png)
-![Analytics](images/admin/analytics.png)
-![Reports](images/admin/reports.png)
+![Reviews](images/admin/reviews.jpg)
+
+![Comments](images/admin/comments.jpg)
+
+![Chart 3](images/admin/chart3.jpg)
+
+![Chart 2](images/admin/chart2.jpg)
+
+![Chart 1](images/admin/chartl.jpg)
+
+![Add Offers](images/admin/add offers.jpg)
+
+![Add Fabric](images/admin/add fabric.jpg)
+
+![Inventory](images/admin/inventory.jpg)
+
+![Orders Page](images/admin/orders page.jpg)
+
+![Dashboard](images/admin/Dashboard.jpg)
+
 
 ---
 
