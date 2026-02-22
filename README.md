@@ -112,9 +112,8 @@ It provides a seamless experience for users, efficient tools for delivery person
 ## 📸 Screenshots
 
 ### 👤 User App
-
-![Home](images/user/home.jpg)
 ![Login](images/user/login.jpg)
+![Home](images/user/home.jpg)
 ![Offers](images/user/offer.jpg)
 ![Favorites](images/user/fav.jpg)
 ![Cart](images/user/cart.jpg)
@@ -127,9 +126,10 @@ It provides a seamless experience for users, efficient tools for delivery person
 
 ### 🚚 Delivery App
 
-![Order Details](images/delivery/order details.jpg)
-![User Location](images/delivery/user location.jpg)
-![Waiting Order](images/delivery/waiting Oder.jpg)
+![Waiting Order](images/delivery/waiting_oder.jpg)
+![Order Details](images/delivery/order_details.jpg)
+![User Location](images/delivery/user_location.jpg)
+
 
 ---
 
@@ -145,13 +145,13 @@ It provides a seamless experience for users, efficient tools for delivery person
 
 ![Chart 1](images/admin/chartl.jpg)
 
-![Add Offers](images/admin/add offers.jpg)
+![Add Offers](images/admin/add_offers.jpg)
 
-![Add Fabric](images/admin/add fabric.jpg)
+![Add Fabric](images/admin/add_fabric.jpg)
 
 ![Inventory](images/admin/inventory.jpg)
 
-![Orders Page](images/admin/orders page.jpg)
+![Orders Page](images/admin/orders_page.jpg)
 
 ![Dashboard](images/admin/Dashboard.jpg)
 
